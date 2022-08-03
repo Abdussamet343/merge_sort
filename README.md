@@ -1,2 +1,2 @@
 # merge_sort
-Kodluyoruz eğitimi kapsamında merge sort projesi
+Kodluyoruz eğitimi kapsamında Merge Sort projesi
